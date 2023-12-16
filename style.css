@@ -1,0 +1,8 @@
+.navlists{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.navlist{
+    margin-left: 25px;
+}
